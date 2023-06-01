@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dmas">DMAS</string>
+    <string name="basic_arithmetic_operations">Basic Arithmetic Operations</string>
+    <string name="result">Result</string>
+    <string name="_00">00</string>
+    <string name="box2">00</string>
+    <string name="div">Div</string>
+    <string name="mul">Mul</string>
+    <string name="add">Add</string>
+    <string name="sub">Sub</string>
+    <string name="designed_by_mackdev_in_india">Designed by MackDev, in India.</string>
+    <string name="clear">Clear</string>
+</resources>
